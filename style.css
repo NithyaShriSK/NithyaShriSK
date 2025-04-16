@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    color: #fff;
+}
+
+.bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    opacity: 0.6;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(129, 193, 215, 0.9);
+    padding: 20px 40px;
+    border-bottom: 6px solid rgb(53, 82, 97);
+}
+
+.head img {
+    width: 40px;
+}
+
+.head h1 {
+    font-size: 2rem;
+    color: #023e58;
+    flex-grow: 1;
+    margin-left: 20px;
+}
+
+.head ul {
+    list-style: none;
+}
+
+.head li {
+    display: inline;
+    font-size: 18px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.head li:hover {
+    text-decoration: underline;
+}
+
+.search, .output, .contact {
+    text-align: center;
+    padding: 30px 10px;
+}
+
+.search h2 {
+    margin-bottom: 20px;
+}
+
+.search h3, .output h3 {
+    margin: 10px auto;
+    width: 90%;
+    max-width: 800px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:black;
+}
+
+input {
+    padding: 10px;
+    width: 60%;
+    border: none;
+    border-radius: 5px;
+}
+
+.button {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #034f6f;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+.contact {
+    background-color: rgba(154, 199, 214, 0.9);
+    color: rgb(4, 85, 128);
+    border-top: 4px solid rgb(53, 82, 97);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contact .declaration {
+    margin: 30px auto 0;
+    max-width: 800px;
+    background-color: rgba(255, 255, 255, 0.9);
+    color: rgb(0, 51, 77);
+    padding: 15px 20px;
+    border-top: 2px solid rgb(53, 82, 97);
+    font-size: 16px;
+    font-style: italic;
+    border-radius: 8px;
+}

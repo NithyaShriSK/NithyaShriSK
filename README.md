@@ -1,76 +1,122 @@
-<!-- HEADER -->
+
+<h1 align="center">Hi 👋, I'm Nithya Shri S K</h1>
+
+<h3 align="center">Computer Science Engineering Student | AI/ML Enthusiast | Aspiring Software Engineer</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0000FF,100:20B2AA&height=100&section=header&text=Nithya%20Shri%20S%20K&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55" alt="Header"/>
+  Passionate about building intelligent solutions, exploring emerging technologies, and solving real-world problems through code.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=2E8B57&center=true&vCenter=true&width=900&lines=Passionate+about+Statistics+and+Data;Exploring+Machine+Learning+%26+APIs;Curious+about+New+Technologies" alt="Typing SVG"/>
-</p>
-
----
-
-## 👩‍💻 About Me  
-- 📊 Passionate about **statistics and data**  
-- 🤖 Interested in **Machine Learning, Deep Learning, and APIs**  
-- 📚 Currently strengthening my knowledge in **Math for ML & Python libraries**  
-- 🌱 Always curious, always learning — with an eye on **real-world AI applications**  
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://github.com/NithyaShriSK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/nithyashrisk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://huggingface.co/NithyaShriSK"><img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://github.com/nithyashrisk">
+    <img src="https://komarev.com/ghpvc/?username=nithyashrisk&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Skills  
-- **Languages:** Python, C  
-- **Core:** Statistics,Basics of Machine Learning,   
-- **Libraries:** NumPy, Pandas, Matplotlib  
-- **Tools:** GitHub, APIs, VS Code  
+### 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,numpy,pandas,git,github,vscode" height="50"/>
+- 🎓 Currently pursuing III Year B.E. Computer Science and Engineering at Bannari Amman Institute of Technology.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI and Agentic AI.
+- 💻 Passionate about Software Development, Data Structures and Algorithms.
+- 🏆 TCS Tech Day Hackathon 2026 Winner.
+- 📚 Currently practicing DSA consistently and very curiously.
+- 🚀 Love building projects and learning through hands-on experience.
+- 🎯 Aspiring to build impactful AI-powered applications and software solutions.
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+**AI / ML & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,react" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,supabase,linux" />
 </p>
 
 ---
 
-## 📂 Projects  
-🔹 Explore more on [My GitHub Repositories](https://github.com/NithyaShriSK)  
+### 🚀 Featured Projects
+
+🔹 **Multi-Agent Software Testing and Bug Analysis Platform**
+- AI-powered platform for automated software testing and bug analysis.
+- Exploring multi-agent workflows using LangGraph.
+
+🔹 **QiBR – AI Interior Design**
+- AI-powered interior design application.
+- Exploring computer vision and vision-language models.
+
+🔹 **SIH – Intelligent Speech Communication System**
+- Working on an offline-first speech communication solution.
+- Focused on Speech-to-Text, Text-to-Speech and semantic communication.
+
+🔹 **SkillQuery**
+- WhatsApp-based chatbot project.
+- Focused on conversational interactions and backend integration.
+
+🔹 **LeetCode Wallpaper Automation**
+- Python-based Windows wallpaper automation.
+- Displays dynamically updated coding statistics.
 
 ---
 
-## 🏆 Achievements  
-- 🏅 **LeetCode 50 Day Badge**  
-- 🥉 **CodeChef Bronze Badge**  
-- 🥈 **CodeChef Silver Badge**  
-- 🥇 **CodeChef Gold Badge**  
+### 🏆 Achievements
+
+- 🥇 Winner – TCS Tech Day Hackathon 2026.
+- 💻 300+ Problems Solved on LeetCode.
+- 👨‍💻 500+ Problems Practiced on CodeChef.
+- ⭐ HackerRank Gold Badge in C and Python.
+- 🌟 Member of AI Workforce.
+
+---
+
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=nithyashrisk&theme=light" alt="LeetCode Badges"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nithyashrisk&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithyashrisk&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nithyashrisk&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithyaShriSK&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithyaShriSK&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NithyaShriSK&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithyashrisk&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-## 💡 Quote  
-> *"Turning data into insights, and insights into impact."*  
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/nithyashrisk">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-👀 **Profile Views**  
-![Profile Views](https://komarev.com/ghpvc/?username=NithyaShriSK&style=flat-square&color=2E8B57)  
+<p align="center">
+  <b>Always curious. Always learning. Always building. 🚀</b>
+</p>

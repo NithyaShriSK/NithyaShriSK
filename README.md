@@ -3,9 +3,12 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30,42,0&height=200&section=header&text=Nithya%20Shri%20S%20K&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+  <h1>Nithya Shri S K</h1>
+  <h3>Computer Science Engineering Student</h3>
+
   <!-- Typing Animated Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI%2FML+%26+Agentic+AI+Enthusiast;TCS+Tech+Day+Hackathon+'26+Winner;Aspiring+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;AI%2FML+%26+Agentic+AI+Enthusiast;TCS+Tech+Day+Hackathon+'26+Winner;Aspiring+Software+Engineer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -35,7 +38,7 @@
 ### ✨ About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.E.%20CSE%20(3rd%20Year)-8A2BE2?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Degree-B.E.%20CSE%20(3rd%20Year)-8A2BE2?style=flat-square" />
   <img src="https://img.shields.io/badge/Institute-Bannari%20Amman%20Inst.-FF4500?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-TCS%20Hackathon%20Winner%20'26-00E676?style=flat-square&logo=trophy" />
 </p>
@@ -65,7 +68,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 <p align="left"><b>🗄️ Databases & Tools</b></p>
@@ -73,14 +75,13 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,js,pytorch,tensorflow,opencv,fastapi,react,mongodb,supabase,git,github,vscode,linux&perline=9" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=java,python,c,js,pytorch,tensorflow,opencv,fastapi,mongodb,supabase,git,github,vscode&perline=7" alt="Tech Stack Icons"/>
   </a>
 </p>
 
